@@ -3,6 +3,8 @@
 A powerful and easy-to-use Windows Forms Application that helps users transfer or map address data from one dataset to another.
 This tool simplifies bulk address migration, saving time and reducing manual data entry errors.
 
+----------------------
+
 🚀 Features
 
 📂 Load two datasets (source and destination)
@@ -15,6 +17,8 @@ This tool simplifies bulk address migration, saving time and reducing manual dat
 
 💻 Simple and intuitive Windows desktop interface
 
+------------------------------
+
 🧩 Technologies Used
 
 | Component         | Description                            |
@@ -23,6 +27,8 @@ This tool simplifies bulk address migration, saving time and reducing manual dat
 | **UI Framework**  | Windows Forms                          |
 | **Data Handling** | CSV, Excel, or Database (customizable) |
 | **IDE**           | Visual Studio                          |
+
+-----------------------------------
 
 🧠 Future Enhancements
 
